@@ -20,7 +20,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 20px 40px;
-    background-color: #492865;
+    background-color: #4d3c5b;
     color: #ffffff;
 }
 
@@ -103,13 +103,15 @@ a:focus {
 }
 
 .project-card h3 {
-    font-family: 'Segoe UI', Arial, sans-serif;
-    margin-bottom: 10px;
-    color: #1c1c1c;
+    font-size: 22px;                 /* bigger title */
+    font-family: 'Arial', sans-serif; /* clean font */
+    color: #8b5d5d;
+    margin-bottom: 12px;
 }
 
+
 .project-card a {
-    color: #22b1a6;
+    color: #557774;
     text-decoration: none;
 }
 
